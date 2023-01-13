@@ -1,0 +1,23 @@
+.body {
+	background-color: #232323;
+}
+
+.nav-item:hover{
+	background-color: rgba(0, 0, 0, 0.6);
+	opacity: 1;
+}
+.display-4 {
+	font-weight: bold; 
+}
+.card-body-icon{
+	position: absolute;
+	z-index: 0;
+	top: 10px;
+	right: 4px;
+	opacity: 0,2;
+	font-size: 50px;
+}
+
+.card {
+	margin-right: 50px
+}
